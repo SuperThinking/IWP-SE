@@ -163,7 +163,7 @@ body{
 		<br>
 		
 		<div class="reg">
-		<form action = "Regis.php" method="post">
+		<form action = "Regis.php" method="POST">
 				<input type="text" placeholder="Full Name" name="fn"><br><br>
 				<input type="text" placeholder="VIT Email Id" name="eid"><br><br>
 				<input type="text" placeholder="Registration Id" name="regid"><br><br>
